@@ -5,12 +5,12 @@ This is a command-line password manager built with Python. It allows users to ge
 
 Features
 
-	•	Password Generation: Generate random passwords of customizable length.
-	•	Password Storage: Store account passwords in a local SQLite database with an associated description.
-	•	Password Encryption: Securely encrypt passwords before saving them to the database.
-	•	Password Retrieval: Retrieve stored passwords by account name.
-	•	Custom Password Length: Allows the user to input a custom length for password generation with input validation.
-	•	User-Friendly Input: Ensures valid input for password length and provides appropriate error messages for invalid input.
+	Password Generation: Generate random passwords of customizable length.
+	Password Storage: Store account passwords in a local SQLite database with an associated description.
+	Password Encryption: Securely encrypt passwords before saving them to the database.
+	Password Retrieval: Retrieve stored passwords by account name.
+	Custom Password Length: Allows the user to input a custom length for password generation with input validation.
+	User-Friendly Input: Ensures valid input for password length and provides appropriate error messages for invalid input.
 
 Prerequisites
 
